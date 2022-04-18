@@ -1,2 +1,6 @@
-# whitepaper
-This repo contains the whitepaper docs.
+---
+description: Official Stake Lands Whitepaper
+---
+
+# Stake Lands
+
