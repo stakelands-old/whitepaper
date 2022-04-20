@@ -20,7 +20,7 @@ Stake Lands has a community-driven economy. It's native virtual money is called 
 * Stake on the lobbies
 * Create new competitions under a LAND
 * Vote on changes to the game
-* Buy items in the marketplace, like avatars
+* Buy items in the marketplace, such as avatars
 
 Anyone can propose new LANDs to be created, but they must be approved through a voting mechanism. Anyone can create new competitions under existing LANDs. A competition have lobbies where people can stack their SCHIPs to earn rewards if they win. A small portion of these rewards are given to the competition's creator, and another portion to the game's Treasury (we'll explain later what the Treasury is used for).
 

@@ -1,13 +1,16 @@
 # Table of contents
 
 * [Stake Lands](README.md)
-
-## The Company
-
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Gameplay](gameplay/README.md)
+  * [Lands](gameplay/lands.md)
+  * [Championship](gameplay/championship.md)
+  * [Championship Lobbies](gameplay/championship-lobbies.md)
+  * [Match Lobbies](gameplay/match-lobbies.md)
+* [Economy](economy/README.md)
+  * [Overview](economy/overview.md)
+  * [Community Treasury](economy/community-treasury.md)
+  * [P2E (play-to-earn) Model](economy/p2e-play-to-earn-model.md)
+  * [In-Game Assets](economy/in-game-assets.md)
+  * [Token Allocation](economy/token-allocation.md)
+* [DAO](dao.md)
+* [Team](team.md)
